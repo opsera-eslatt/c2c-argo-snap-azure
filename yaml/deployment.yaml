@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
         - name: back-end
-          image: eslattacr.azurecr.io/azure-demo-push-repo:0c663c569e4f1c872bd352c8bdd3517850055b39
+          image: eslattacr.azurecr.io/azure-demo-push-repo:2ec17311a2069aed5129593cb28dc3526a8bb632
 
 ---
 #Service
